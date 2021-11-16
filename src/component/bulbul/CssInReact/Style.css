@@ -1,0 +1,49 @@
+.success {
+  color: rgb(178, 228, 178);
+}
+
+.about {
+  height: 400px;
+  width: 300px;
+  background-color: black;
+  color: wheat;
+  margin: auto;
+  position: relative;
+  border: 5px solid #451;
+}
+
+.about h3 {
+  text-align: center;
+  font-family: roboto;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.about p {
+  text-align: center;
+  font-family: roboto;
+  position: absolute;
+  top: 90px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.about a {
+  text-align: center;
+  font-family: roboto;
+  text-decoration: none;
+  position: absolute;
+  padding: 30px 0;
+  top: 200px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.condition {
+  font-size: 20px;
+  color: rgb(151, 151, 172);
+}

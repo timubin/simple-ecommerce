@@ -1,0 +1,19 @@
+.counter {
+  font-size: 40px;
+}
+
+.counter-button {
+  font-size: 40px;
+  border: 2px solid rgb(192, 83, 247);
+  padding: 5px;
+  height: 70px;
+  cursor: pointer;
+}
+
+.counter-button-disabled {
+  font-size: 40px;
+  border: 2px solid rgb(83, 247, 192);
+  padding: 5px;
+  height: 70px;
+  cursor: text;
+}
