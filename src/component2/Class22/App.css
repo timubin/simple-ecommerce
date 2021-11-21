@@ -1,0 +1,31 @@
+#clock {
+  font-family: serif;
+  color: darkmagenta;
+  font-size: 28px;
+}
+#date {
+  font-size: inherit;
+  color: rebeccapurple;
+  font-size: 22px;
+}
+#dateTime {
+  width: 200px;
+  height: 300px;
+  margin: auto;
+}
+.paraList {
+  color: rgb(10, 10, 10);
+  width: 400px;
+
+  padding: 10px 5px;
+  margin: auto;
+  font-style: italic;
+  font-family: roboto;
+}
+.para {
+  font-size: 17px;
+
+  list-style: none;
+  text-transform: capitalize;
+  border-bottom: 1px solid #000;
+}

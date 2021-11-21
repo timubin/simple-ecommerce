@@ -15,11 +15,15 @@ import Css from "./Class17/Css";
 import ContactContainer from "./Class18/Views/ContactContainer";
 import Apps from "./Class18/Apps";
 import TodoApps from "./Class20/TodoApps";
+import UseEffectHook from "./Class22/UseEffectHook";
+import LiveClock from "./Class22/LiveClock";
+import UseMemo from "./Class23/UseMemo";
+import ReactRouter from "./Class24/ReactRouter";
 
 function App() {
   return (
     <div className="Appp">
-      <TodoApps />
+      <ReactRouter />
     </div>
   );
 }
